@@ -48,7 +48,7 @@ If you have any questions, you can create issues under corresponding template. F
 
 + [Ethan Deng/ddswhu](https://github.com/orgs/ElegantLaTeX/people/EthanDeng)；
 + [Liam Huang](https://github.com/orgs/ElegantLaTeX/people/Liam0205)；
-+ [peggy2006xzyz](https://github.com/orgs/ElegantLaTeX/people/peggy2006xzyz)；
++ [YPY](https://github.com/orgs/ElegantLaTeX/people/peggy2006xzyz)；
 + [Dishy Qming SU](https://github.com/orgs/ElegantLaTeX/people/franklinsu)。
 
 如果你有其他问题，你可以在对应模板下的 issues 留言，比如 ElegantBook, 可以在 [https://github.com/ElegantLaTeX/ElegantBook/issues](https://github.com/ElegantLaTeX/ElegantBook/issues) 留下你的问题。我们也欢迎你给我们发邮件，我们的邮箱是 elegantlatex2e@gmail.com。
